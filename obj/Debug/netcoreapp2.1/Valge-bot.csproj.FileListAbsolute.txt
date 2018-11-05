@@ -1,0 +1,11 @@
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\bin\Debug\netcoreapp2.1\Valge-bot.deps.json
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\bin\Debug\netcoreapp2.1\Valge-bot.runtimeconfig.json
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\bin\Debug\netcoreapp2.1\Valge-bot.runtimeconfig.dev.json
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\bin\Debug\netcoreapp2.1\Valge-bot.dll
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.csprojAssemblyReference.cache
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.csproj.CoreCompileInputs.cache
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.AssemblyInfoInputs.cache
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.AssemblyInfo.cs
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\bin\Debug\netcoreapp2.1\Valge-bot.pdb
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.dll
+C:\Users\Kassu\Desktop\Discordbot\Valge-bot\Valge-bot\obj\Debug\netcoreapp2.1\Valge-bot.pdb
